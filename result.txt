@@ -1,0 +1,19 @@
+(up, -7), WORD,, WORD,,
+Word,,, ()
+WORD,,,,,
+,, WORD
+word WORD WORD
+
+'' '' '' '' '' '
+'' '' '' '
+' word
+'word'
+'word'
+'word'
+'word' 'word'
+(up, -1)
+'ghghg. hghghg' 'hghgg' 'hbhb...'
+()
+AN AAAA
+AN AAA
+An aaa An aaaa AN aa AN AAA
